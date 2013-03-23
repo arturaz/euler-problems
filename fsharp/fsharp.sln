@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "fsharp-playground", "fsharp-playground\fsharp-playground.fsproj", "{4BF36140-FAC6-42BE-B920-A5AA758135D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BF36140-FAC6-42BE-B920-A5AA758135D0}.Debug|x86.ActiveCfg = Debug|x86
+		{4BF36140-FAC6-42BE-B920-A5AA758135D0}.Debug|x86.Build.0 = Debug|x86
+		{4BF36140-FAC6-42BE-B920-A5AA758135D0}.Release|x86.ActiveCfg = Release|x86
+		{4BF36140-FAC6-42BE-B920-A5AA758135D0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = fsharp-playground\fsharp-playground.fsproj
+	EndGlobalSection
+EndGlobal

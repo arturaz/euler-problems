@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="fsharp-playground/euler11.fs">
+    <Files>
+      <File FileName="fsharp-playground/Program.fs" Line="10" Column="2" />
+      <File FileName="fsharp-playground/euler1.fs" Line="16" Column="20" />
+      <File FileName="fsharp-playground/euler2.fs" Line="36" Column="6" />
+      <File FileName="fsharp-playground/euler4.fs" Line="26" Column="27" />
+      <File FileName="fsharp-playground/euler5.fs" Line="22" Column="12" />
+      <File FileName="fsharp-playground/euler6.fs" Line="24" Column="39" />
+      <File FileName="fsharp-playground/euler8.fs" Line="22" Column="5" />
+      <File FileName="fsharp-playground/euler9.fs" Line="27" Column="9" />
+      <File FileName="fsharp-playground/euler11.fs" Line="84" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="fsharp-playground" expanded="True">
+            <Node name="euler11.fs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
